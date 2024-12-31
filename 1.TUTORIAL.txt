@@ -1,0 +1,16 @@
+download go live extension ! 
+and then go to the masterpage.html
+and in the bottom right click go live
+and wait for a sec
+and then the web will be show there
+DONE!!!!!!!!!!!!!!
+
+cheers-- Rifqi
+
+important notes :
+-Dont Change Anything that related to Positioning or Dimensioning, CHANGE ONLY TEXT YA.
+-This is Using Boostrap and Vendor Dsb.
+-Let the pages file outside so we dont have to write "../" 
+-if you done with this then just ignore this page.
+
+-for sir rila THANK YOU SIRRR, and dont mind this page only for my team tho

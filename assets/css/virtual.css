@@ -1,31 +1,3 @@
-/*
- 
- [Master Stylesheet]
-
- Project:   VirtualGram Template
- Version:   1.0
- Author:    Mikhail Abdillah
- Website:   https://www.macode.web.id/
-
- [Table of contents]
-
- 1. Basic
- 2. Button
- 3. Color Scheme
- 4. Progress bar
- 5. Theme list
- 6. Timeline
- 7. Navigation
- 8. Sidebar
- 9. Page Style
- 10. Social
- 11. Theme Color
- 12. Reveal
- 13. Page Switching
- 14. Carousel
- 15. Grid (OpenGraph)
-
- */
 
 :root {
     --theme-red: #ef3724;
@@ -108,13 +80,15 @@ a:hover, a:active {
     position: relative;
     display: block;
     margin: 0 auto;
-    width: 100%;height: 100%;
+    width: 100%;
+    height: 100%;
     overflow: hidden;
-    z-index: 10;
 }
 
 .img-place > img {
-    width: 100%;height: auto;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* Overlay */
@@ -970,6 +944,11 @@ a:hover, a:active {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
+h1.fw-light {
+    margin-top: 25px; 
+    margin-bottom: 10px; 
+}
+
 .og-details h1,
 .og-details h2,
 .og-details h3,
@@ -1423,4 +1402,17 @@ a:hover, a:active {
 
 .theme-purple .theme-list li::before {
     border-color: #6f42c1;
+}
+
+.dropdown-menu {
+    background-color: rgb(24, 23, 23); 
+}
+
+.dropdown-item {
+    color: #ffffff; 
+}
+
+.dropdown-item:hover {
+    background-color: rgb(143, 139, 139); 
+    color: white;
 }
