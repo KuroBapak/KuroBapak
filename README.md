@@ -110,12 +110,12 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KuroBapak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroBapak&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=KuroBapak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=KuroBapak&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroBapak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="45%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroBapak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="45%" alt="Top Languages" />
 
 </div>
 
@@ -141,10 +141,9 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 ---
 
-### 🌱 SmartGarden BRIN — Autonomous Greenhouse Monitoring
+### 🌱 [SmartGarden BRIN](https://github.com/KuroBapak/Project-SmartGarden-BRIN) — Autonomous Greenhouse Monitoring
 **IoT & AI Systems Developer**
-
-[![SmartGarden](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Project-SmartGarden-BRIN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/KuroBapak/Project-SmartGarden-BRIN)
+> Distributed intelligent system for agricultural greenhouse automation with real-time MQTT monitoring, YOLOv8 plant disease detection, AI-powered energy recommendations, and ESP32 microservice architecture.
 
 `Laravel 12` `FastAPI` `YOLOv8` `MQTT` `InfluxDB` `ESP32`
 
@@ -158,10 +157,9 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 ---
 
-### 🏪 Keshir — Smart Café Management System
+### 🏪 [Keshir](https://github.com/KuroBapak/Keshir) — Smart Café Management System
 **Full-Stack Developer**
-
-[![Keshir](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Keshir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/KuroBapak/Keshir)
+> Comprehensive POS system with role-based staff management, FIFO inventory, QR ordering, AI chatbot (Ollama), RFID attendance, real-time kitchen display, and Midtrans payment gateway.
 
 `Laravel 12` `Blade` `MySQL` `Tailwind CSS` `Ollama AI` `RFID` `Midtrans`
 
@@ -183,17 +181,17 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 ---
 
-### 🍎 ExpiryGuard — Food Inventory Management
-
-[![ExpiryGuard](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Final-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/KuroBapak/Final-Projects)
+### 🍎 [ExpiryGuard](https://github.com/KuroBapak/Final-Projects) — Food Inventory Management
+**Mobile Developer**
+> Flutter app that reduces food waste with barcode scanning (OpenFoodFacts API), receipt OCR (Google ML Kit), smart expiration reminders, and offline-first architecture.
 
 `Flutter` `Dart` `Firebase` `Google ML Kit` `Riverpod`
 
 ---
 
-### 🎥 Robot Sorting Conveyor — IoT Automation
-
-[![Robot Conveyor](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Robot-Sorting-Conveyor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/KuroBapak/Robot-Sorting-Conveyor)
+### 🎥 [Robot Sorting Conveyor](https://github.com/KuroBapak/Robot-Sorting-Conveyor) — IoT Automation
+**Embedded Systems Developer**
+> Intelligent robotics system with real-time sorting control, sensor-based object classification, and web-based monitoring interface.
 
 `JavaScript` `Embedded Systems` `IoT` `Servo Control`
 
