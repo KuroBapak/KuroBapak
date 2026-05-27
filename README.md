@@ -6,12 +6,9 @@ A passionate **Full-Stack Developer** and **IoT/AI Systems Architect** with expe
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/KuroBapak/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=KuroBapak&show_icons=true&theme=radical&include_all_commits=true" />
-</a>
-<a href="https://github.com/KuroBapak/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KuroBapak&layout=compact&langs_count=8&theme=radical" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroBapak&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuroBapak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -48,13 +45,16 @@ I'm passionate about **solving complex problems** through **intelligent automati
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
 
 ### Frontend & Mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34C26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-Visualizations-FF6384?logo=chartdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-7952B3?logo=bootstrap&logoColor=white)
 
 ### IoT & AI
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded-E7352C?logo=espressif&logoColor=white)
@@ -62,6 +62,7 @@ I'm passionate about **solving complex problems** through **intelligent automati
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black)
 ![MQTT](https://img.shields.io/badge/MQTT-IoT-3C113D)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-TimeSeries-22ADF6?logo=influxdb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
@@ -69,11 +70,9 @@ I'm passionate about **solving complex problems** through **intelligent automati
 
 ### 🌱 **SmartGarden BRIN** — Autonomous Greenhouse Monitoring & Control
 
-A **distributed intelligent system** for agricultural greenhouse automation featuring:
+A **distributed intelligent system** for agricultural greenhouse automation:
 
-<a href="https://github.com/KuroBapak/Project-SmartGarden-BRIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Project-SmartGarden-BRIN&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Project-SmartGarden-BRIN&theme=radical)](https://github.com/KuroBapak/Project-SmartGarden-BRIN)
 
 **Key Features:**
 - ⚡ Real-time MQTT WebSocket monitoring dashboard
@@ -83,7 +82,7 @@ A **distributed intelligent system** for agricultural greenhouse automation feat
 - 📡 Microservice architecture (Laravel + FastAPI + ESP32)
 - 📊 Live sensor visualization with historical analytics
 
-**Tech Stack:** Laravel 12 | FastAPI | YOLOv8 | MQTT | InfluxDB | ESP32 | EMQX
+**Tech Stack:** Laravel 12 | FastAPI | YOLOv8 | MQTT | InfluxDB | ESP32
 
 ---
 
@@ -91,9 +90,7 @@ A **distributed intelligent system** for agricultural greenhouse automation feat
 
 A comprehensive **POS system** with intelligent features:
 
-<a href="https://github.com/KuroBapak/Keshir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Keshir&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Keshir&theme=radical)](https://github.com/KuroBapak/Keshir)
 
 **Key Features:**
 - 👥 Role-based staff management (Owner, Manager, Cashier, Kitchen Staff)
@@ -104,17 +101,15 @@ A comprehensive **POS system** with intelligent features:
 - 🍳 Real-time kitchen display with order status management
 - 💳 Payment gateway integration (Midtrans)
 
-**Tech Stack:** Laravel 12 | Blade | MySQL | Tailwind CSS | Ollama | RFID API
+**Tech Stack:** Laravel 12 | Blade | MySQL | Tailwind CSS | Ollama
 
 ---
 
 ### 🍎 **ExpiryGuard** — Intelligent Food Inventory Management
 
-A **Flutter mobile app** that reduces food waste through smart tracking:
+A **Flutter mobile app** that reduces food waste:
 
-<a href="https://github.com/KuroBapak/Final-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Final-Projects&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Final-Projects&theme=radical)](https://github.com/KuroBapak/Final-Projects)
 
 **Key Features:**
 - 📱 Barcode scanning via OpenFoodFacts API
@@ -128,13 +123,11 @@ A **Flutter mobile app** that reduces food waste through smart tracking:
 
 ---
 
-### 🛒 **MoRiJul** — E-Commerce Platform (Shopee-like)
+### 🛒 **MoRiJul** — E-Commerce Platform
 
 A full-featured **e-commerce system** for university dorm residents:
 
-<a href="https://github.com/KuroBapak/OOSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=OOSS&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=OOSS&theme=radical)](https://github.com/KuroBapak/OOSS)
 
 **Key Features:**
 - 🛍️ Session-based shopping cart (no login required)
@@ -142,42 +135,30 @@ A full-featured **e-commerce system** for university dorm residents:
 - 💬 Order-specific chat between buyers and sellers
 - 💰 Multiple payment options (COD, QRIS)
 - 🔖 Unique order codes for tracking
-- 📊 Employee management system with RFID attendance
 
-**Tech Stack:** Laravel 11 | PHP | Bootstrap | MySQL | Session Management | Java (HR Module)
+**Tech Stack:** Laravel 11 | PHP | Bootstrap | MySQL
 
 ---
 
-### 🎥 **Robot Sorting Conveyor** — IoT-Controlled Automation
+### 🎥 **Robot Sorting Conveyor** — IoT Automation
 
 Intelligent robotics system with real-time control:
 
-<a href="https://github.com/KuroBapak/Robot-Sorting-Conveyor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Robot-Sorting-Conveyor&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuroBapak&repo=Robot-Sorting-Conveyor&theme=radical)](https://github.com/KuroBapak/Robot-Sorting-Conveyor)
 
-**Tech Stack:** JavaScript | Embedded Systems | IoT Control
+**Tech Stack:** JavaScript | Embedded Systems | IoT
 
 ---
 
-## 📊 Repository Statistics
+## 📊 My Repository Overview
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Total Repositories</strong><br/>
-      <img src="https://img.shields.io/badge/15-Repositories-blue?style=flat-square" />
-    </td>
-    <td align="center">
-      <strong>Languages Used</strong><br/>
-      <img src="https://img.shields.io/badge/8+-Languages-brightgreen?style=flat-square" />
-    </td>
-    <td align="center">
-      <strong>Focus Areas</strong><br/>
-      <img src="https://img.shields.io/badge/IoT%20|%20AI%20|%20FullStack-orange?style=flat-square" />
-    </td>
-  </tr>
-</table>
+| Metric | Count |
+|--------|-------|
+| **Total Repositories** | 15+ |
+| **Primary Languages** | PHP, Python, Dart, JavaScript |
+| **Specializations** | IoT, AI/ML, Full-Stack Development |
+| **Active Projects** | SmartGarden, Keshir, ExpiryGuard |
+| **Years of Experience** | 2+ Years |
 
 ---
 
@@ -187,7 +168,7 @@ Intelligent robotics system with real-time control:
 ✅ **Integrated advanced AI models** — YOLO for disease detection, Ollama for intelligent recommendations  
 ✅ **Built real-time monitoring systems** — Handling live sensor data streams with MQTT  
 ✅ **Developed mobile applications** — Flutter apps with offline-first architecture  
-✅ **Implemented inventory optimization** — FIFO-based stock management with recipe deduction  
+✅ **Implemented inventory optimization** — FIFO-based stock management  
 ✅ **Created payment integrations** — Midtrans gateway for secure transactions  
 ✅ **Engineered IoT systems** — ESP32 firmware, RFID integration, hardware automation  
 
@@ -195,9 +176,9 @@ Intelligent robotics system with real-time control:
 
 ## 📈 My Interests & Growth Areas
 
-🔬 **AI & Machine Learning** — Expanding expertise in NLP, computer vision, and predictive analytics  
+🔬 **AI & Machine Learning** — NLP, computer vision, and predictive analytics  
 ⚡ **Real-Time Systems** — WebSocket, MQTT, and event-driven architectures  
-🌐 **Cloud Architecture** — Microservices, containerization, serverless computing  
+🌐 **Cloud Architecture** — Microservices, containerization, deployment optimization  
 🔒 **Security & DevOps** — API authentication, encryption, CI/CD pipelines  
 🤝 **Collaborative Development** — Open-source contributions and team-based projects  
 
@@ -205,34 +186,29 @@ Intelligent robotics system with real-time control:
 
 ## 💼 Current Focus
 
-<div align="center">
-
-| Area | Status | Details |
-|------|--------|---------|
-| 🤖 AI/ML Integration | 🟢 Active | YOLO, NLP, Ollama LLM |
-| 🏗️ System Architecture | 🟢 Active | Microservices, Distributed Systems |
-| ☁️ Cloud Deployment | 🟢 Active | Docker, Vercel, VPS Optimization |
-| 📱 Mobile Development | 🟢 Active | Flutter, Firebase, Offline-First |
-
-</div>
+| Area | Status |
+|------|--------|
+| 🤖 AI/ML Integration | 🟢 Active |
+| 🏗️ System Architecture | 🟢 Active |
+| ☁️ Cloud Deployment | 🟢 Active |
+| 📱 Mobile Development | 🟢 Active |
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always excited to collaborate on projects that combine:
+I'm always excited to collaborate on:
 - Intelligent automation and smart systems
 - Real-time data processing and analytics
 - AI/ML integration and computer vision
 - IoT systems and embedded development
 - Full-stack development and system design
 
-**Feel free to explore my repositories, open issues, or reach out for collaborations!**
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KuroBapak-black?style=for-the-badge&logo=github)](https://github.com/KuroBapak)
 [![Email](https://img.shields.io/badge/Email-morenokarbar%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:morenokarbar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moreno-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 </div>
 
@@ -248,6 +224,6 @@ Most of my projects are open-source and available under the MIT License. Check i
 
 ### ⭐ If you find my work interesting, please consider starring my repositories!
 
-**Last Updated:** May 27, 2026
+**Happy Coding!** 🚀
 
 </div>
