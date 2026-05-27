@@ -1,7 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=220&section=header&text=Moreno%20Dwiputra&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20IoT%20Systems%20Engineer&descSize=18&descColor=A9A9FF&descAlignY=55" width="100%" />
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Moreno+Dwiputra;IT+Infrastructure+%26+IoT+Systems+Engineer" alt="Typing SVG" />
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+Self-Hosted+Infrastructure+%F0%9F%96%A5%EF%B8%8F;Connecting+Hardware+to+Intelligent+Software+%F0%9F%94%8C;From+ESP32+Sensors+to+Cloud+Dashboards+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +14,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KuroBapak&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -33,7 +34,7 @@ education:
 
 focus:
   - Networking, Server Infrastructure & Virtualization
-  - IoT & Embedded Systems (ESP32)
+  - IoT & Embedded Systems (ESP32, MQTT, EMQX)
   - Full-Stack Web Development
   - Computer Vision & AI Integration
 
@@ -76,7 +77,7 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 <div align="center">
 
-### Infrastructure & Networking
+### 🖥️ Infrastructure & Networking
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,nginx&theme=dark" alt="Infrastructure" />
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
@@ -84,22 +85,33 @@ fun_fact: "I build things that connect the physical world to the digital one �
 ![VLAN](https://img.shields.io/badge/VLAN_Routing-2C3E50?style=for-the-badge&logo=cisco&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=for-the-badge&logo=cloud&logoColor=white)
 
-### IoT & Embedded Systems
+---
+
+### 📡 IoT & Embedded Systems
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="IoT" />
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![EMQX](https://img.shields.io/badge/EMQX-Self_Hosted_MQTT_Broker-00B173?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT_Protocol-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensors_&_Actuators-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Backend & Web Development
+> 🔗 **Self-Hosted EMQX Broker** — Running enterprise-grade MQTT broker on my homelab infrastructure for real-time IoT device communication, rule engine data routing to InfluxDB, and scalable pub/sub messaging across all projects.
+
+---
+
+### 💻 Backend & Web Development
 <img src="https://skillicons.dev/icons?i=laravel,php,python,fastapi,mysql,js,react&theme=dark" alt="Backend" />
 
-### AI & Computer Vision
+---
+
+### 🤖 AI & Computer Vision
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark" alt="AI" />
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-### Tools & DevOps
+---
+
+### ⚙️ Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
 
 </div>
@@ -119,6 +131,11 @@ fun_fact: "I build things that connect the physical world to the digital one �
   <img height="200" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuroBapak&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF" width="98%" alt="Activity Graph" />
+</p>
+
 ---
 
 ## 🏗️ Featured Projects
@@ -135,17 +152,17 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 ### 🖥️ Homelab Server Infrastructure
 **Infrastructure & Network Engineer** · Dec 2025 – Present
-> Self-hosted infrastructure using Proxmox (2-node), Docker, OPNsense with VLAN segmentation, firewall rules, DMZ/LAN isolation, and 24/7 uptime.
+> Self-hosted infrastructure using Proxmox (2-node), Docker, OPNsense with VLAN segmentation, firewall rules, DMZ/LAN isolation, self-hosted EMQX broker, and 24/7 uptime.
 
-`Proxmox` `OPNsense` `Docker` `VLAN` `Coolify`
+`Proxmox` `OPNsense` `Docker` `VLAN` `Coolify` `EMQX`
 
 ---
 
 ### 🌱 [SmartGarden BRIN](https://github.com/KuroBapak/Project-SmartGarden-BRIN) — Autonomous Greenhouse Monitoring
 **IoT & AI Systems Developer**
-> Distributed intelligent system for agricultural greenhouse automation with real-time MQTT monitoring, YOLOv8 plant disease detection, AI-powered energy recommendations, and ESP32 microservice architecture.
+> Distributed intelligent system for agricultural greenhouse automation with real-time MQTT monitoring via self-hosted EMQX, YOLOv8 plant disease detection, AI-powered energy recommendations, and ESP32 microservice architecture.
 
-`Laravel 12` `FastAPI` `YOLOv8` `MQTT` `InfluxDB` `ESP32`
+`Laravel 12` `FastAPI` `YOLOv8` `EMQX` `MQTT` `InfluxDB` `ESP32`
 
 ---
 
@@ -203,7 +220,8 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 ```text
 🖥️  Infrastructure    ████████████████████░░░   Building & scaling homelab with Proxmox + OPNsense
-🔌  IoT Systems       ██████████████████████░   ESP32 projects, MQTT architectures & sensor networks
+📡  EMQX & MQTT       ██████████████████████░   Self-hosted MQTT broker for all IoT projects
+🔌  IoT Systems       ██████████████████████░   ESP32 projects, sensor networks & device comms
 🌐  Web Development   ██████████████████░░░░░   Laravel + React full-stack applications
 🤖  AI/ML             ████████████████░░░░░░░   Computer vision & TensorFlow integrations
 ☁️  Cloud/DevOps      ██████████████░░░░░░░░░   Docker, self-hosting, CI/CD pipelines
@@ -225,10 +243,13 @@ Whether it's building a smart system, setting up server infrastructure, or devel
 [![Email](https://img.shields.io/badge/Send_Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morenodwiputra147@gmail.com)
 [![Website](https://img.shields.io/badge/Visit-kurobapak.site-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kurobapak.site)
 
-<br/>
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KuroBapak/KuroBapak/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=120&section=footer" width="100%" />
