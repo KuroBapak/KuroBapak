@@ -108,14 +108,16 @@ fun_fact: "I build things that connect the physical world to the digital one �
 
 ## 📊 GitHub Stats
 
+<!-- Cards are auto-generated daily by GitHub Actions — see .github/workflows/grs.yml -->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KuroBapak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+<img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=KuroBapak&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroBapak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="45%" alt="Top Languages" />
+<img src="./profile/top-langs.svg" width="45%" alt="Top Languages" />
 
 </div>
 
