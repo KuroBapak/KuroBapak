@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=220&section=header&text=Moreno%20Dwiputra&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20IoT%20Systems%20Engineer&descSize=18&descColor=A9A9FF&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Moreno%20Dwiputra&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=IT%20Infrastructure%20|%20IoT%20Systems%20Engineer&descSize=18&descColor=A9A9FF&descAlignY=58" width="100%" />
 
 <div align="center">
 
@@ -252,4 +252,4 @@ Whether it's building a smart system, setting up server infrastructure, or devel
   <img src="https://raw.githubusercontent.com/KuroBapak/KuroBapak/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer" width="100%" />
