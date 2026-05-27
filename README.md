@@ -110,16 +110,14 @@ fun_fact: "I build things that connect the physical world to the digital one ðŸ”
 
 <!-- Cards are auto-generated daily by GitHub Actions â€” see .github/workflows/grs.yml -->
 
-<div align="center">
+<p align="center">
+  <img height="200" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="200" align="center" src="https://streak-stats.demolab.com/?user=KuroBapak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=KuroBapak&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="./profile/top-langs.svg" width="45%" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img height="200" align="center" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ---
 
